@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-4551819&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-4551819" /> </p>
 
-- 🔭 I’m currently working on ** RelTime – Relationship & Memories Manager**
+- 🔭 I’m currently working on **RelTime – Relationship & Memories Manager**
 
 - 🌱 I’m currently learning **KMP, CMP**
 
